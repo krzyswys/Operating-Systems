@@ -1,0 +1,53 @@
+1. run of ./replace, changing 'a' to 'Q', finished in 0.000126s
+2. run of ./replace, changing 'a' to 'Q', finished in 0.000108s
+3. run of ./replace, changing 'a' to 'Q', finished in 0.000108s
+4. run of ./replace, changing 'a' to 'Q', finished in 0.000156s
+5. run of ./replace, changing 'a' to 'Q', finished in 0.000110s
+6. run of ./replace, changing 'a' to 'Q', finished in 0.000074s
+7. run of ./replace, changing 'a' to 'Q', finished in 0.000112s
+8. run of ./replace, changing 'a' to 'Q', finished in 0.000115s
+9. run of ./replace, changing 'a' to 'Q', finished in 0.000142s
+10. run of ./replace, changing 'a' to 'Q', finished in 0.000107s
+11. run of ./replace, changing 'a' to 'Q', finished in 0.000117s
+12. run of ./replace, changing 'a' to 'Q', finished in 0.000146s
+13. run of ./replace, changing 'a' to 'Q', finished in 0.000111s
+14. run of ./replace, changing 'a' to 'Q', finished in 0.000110s
+15. run of ./replace, changing 'a' to 'Q', finished in 0.000103s
+16. run of ./replace, changing 'a' to 'Q', finished in 0.000109s
+17. run of ./replace, changing 'a' to 'Q', finished in 0.000143s
+18. run of ./replace, changing 'a' to 'Q', finished in 0.000115s
+19. run of ./replace, changing 'a' to 'Q', finished in 0.000107s
+20. run of ./replace, changing 'a' to 'Q', finished in 0.000076s
+21. run of ./replace, changing 'a' to 'Q', finished in 0.000105s
+22. run of ./replace, changing 'a' to 'Q', finished in 0.000078s
+23. run of ./replace, changing 'a' to 'Q', finished in 0.000107s
+24. run of ./replace, changing 'a' to 'Q', finished in 0.000078s
+25. run of ./replace, changing 'a' to 'Q', finished in 0.000132s
+26. run of ./replace, changing 'a' to 'Q', finished in 0.000113s
+27. run of ./replace, changing 'a' to 'Q', finished in 0.000098s
+28. run of ./replace, changing 'a' to 'Q', finished in 0.000126s
+29. run of ./replace, changing 'a' to 'Q', finished in 0.000080s
+30. run of ./replace, changing 'a' to 'Q', finished in 0.000148s
+31. run of ./replace, changing 'a' to 'Q', finished in 0.000109s
+32. run of ./replace, changing 'a' to 'Q', finished in 0.000094s
+33. run of ./replace, changing 'a' to 'Q', finished in 0.000102s
+34. run of ./replace, changing 'a' to 'Q', finished in 0.000081s
+35. run of ./replace, changing 'a' to 'Q', finished in 0.000105s
+36. run of ./replace, changing 'a' to 'Q', finished in 0.000112s
+37. run of ./replace, changing 'a' to 'Q', finished in 0.000079s
+38. run of ./replace, changing 'a' to 'Q', finished in 0.000131s
+39. run of ./replace, changing 'a' to 'Q', finished in 0.000111s
+40. run of ./replace, changing 'a' to 'Q', finished in 0.000079s
+41. run of ./replace, changing 'a' to 'Q', finished in 0.000094s
+42. run of ./replace, changing 'a' to 'Q', finished in 0.000082s
+43. run of ./replace, changing 'a' to 'Q', finished in 0.000122s
+44. run of ./replace, changing 'a' to 'Q', finished in 0.000071s
+45. run of ./replace, changing 'a' to 'Q', finished in 0.000107s
+46. run of ./replace, changing 'a' to 'Q', finished in 0.000092s
+47. run of ./replace, changing 'a' to 'Q', finished in 0.000136s
+48. run of ./replace, changing 'a' to 'Q', finished in 0.000099s
+49. run of ./replace, changing 'a' to 'Q', finished in 0.000118s
+50. run of ./replace, changing 'a' to 'Q' from file test.txt to file output.txt in fread family, finished in 0.000066s
+51. run of ./replace, changing 'a' to 'Q' from file 'test.txt' to file 'output.txt' in read() family, finished in 0.000120s
+52. run of ./replace, changing 'a' to 'W' from file 'test.txt' to file 'output.txt' in read() family, finished in 0.000055s
+53. run of ./replace, changing 'a' to 'W' from file 'test.txt' to file 'output.txt' in read() family, finished in 0.000077s

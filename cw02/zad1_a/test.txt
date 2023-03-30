@@ -1,0 +1,3 @@
+Jakiś przykładowy teskt służący do przeprowadzenia testu programu zamieniającego dany znak na inny - dowolny wybrany podczas uruchamiania go z lini poleceń. 
+Program zamienia dany znak na inny i zapisuje wynik do pliku tesktowego output w formacie txt. 
+ż ź ć ę ą ó ł ń , . / ' " ; : {}[] \ | = + () * & ^ % $ # @ ! 1234567890 - _ <>

@@ -1,0 +1,1 @@
+Otrzymane wyniki są zbyt małe aby jednoznacznie stwierdzić która opcja kompilacji jest najszybsza. Aby zobaczyć większą różnice potrzebny by był większy plik testowy.

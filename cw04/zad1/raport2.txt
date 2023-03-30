@@ -1,0 +1,25 @@
+Wyniki z zad1:
+    IGNORE:
+        Raising singal: 10 in main process of id: 13815
+        Main process (13815): Signal with id 10 is NOT pending.
+        Raising singal: 10 in child process of id: 14052
+        Child process (14052): Signal with id 10 is NOT pending.
+        After exec, signal with id 10 is NOT pending.
+    HANDLER:
+        Raising singal: 10 in main process of id: 13815
+        Received signal 10 in handler
+        Main process (13815): Signal with id 10 is NOT pending.
+        Raising singal: 10 in child process of id: 14069
+        Received signal 10 in handler
+        Child process (14069): Signal with id 10 is NOT pending.
+    MASK:
+        Raising singal: 10 in main process of id: 13815
+        Main process (13815): Signal with id 10 is pending.
+        Raising singal: 10 in child process of id: 14085
+        Child process (14085): Signal with id 10 is pending.
+        After exec, signal with id 10 is pending.
+    PENDING:
+        Raising singal: 10 in main process of id: 13815
+        Main process (13815): Signal with id 10 is pending.
+        Child process (14101): Signal with id 10 is NOT pending.
+        After exec, signal with id 10 is pending.

@@ -1,0 +1,3 @@
+JWkiś przykłWdowy teskt służący do przeprowWdzeniW testu progrWmu zWmieniWjącego dWny znWk nW inny - dowolny wybrWny podczWs uruchWmiWniW go z lini poleceń. 
+ProgrWm zWmieniW dWny znWk nW inny i zWpisuje wynik do pliku tesktowego output w formWcie txt. 
+ż ź ć ę ą ó ł ń , . / ' " ; : {}[] \ | = + () * & ^ % $ # @ ! 1234567890 - _ <>

@@ -1,0 +1,46 @@
+Write 'exit' or '[Ctr+C]' to exit program
+> Initializing block array with size: 3
+Initialized block array with size: 3
+Real time: 0.000002 s, User time: 0.000001 s, System time: 0.000000 s
+
+> Counting lines and words in file: lib.c
+Counted lines and words in file: lib.c
+Real time: 0.000140 s, User time: 0.000141 s, System time: 0.000000 s
+
+> Counting lines and words in file: main.c
+Counted lines and words in file: main.c
+Real time: 0.000077 s, User time: 0.000076 s, System time: 0.000000 s
+
+> Counting lines and words in file: lib_dynamic.c
+Counted lines and words in file: lib_dynamic.c
+Real time: 0.000074 s, User time: 0.000075 s, System time: 0.000000 s
+
+> Block contents at index 0:
+L: 191, W: 471
+Real time: 0.000001 s, User time: 0.000001 s, System time: 0.000000 s
+
+> Block contents at index 1:
+L: 226, W: 478
+Real time: 0.000001 s, User time: 0.000000 s, System time: 0.000000 s
+
+> Block contents at index 2:
+L: 116, W: 221
+Real time: 0.000001 s, User time: 0.000001 s, System time: 0.000000 s
+
+> Deleting block contents at index 2:
+Deleted block contents at index 2:
+Real time: 0.000001 s, User time: 0.000001 s, System time: 0.000000 s
+
+> Deleting block contents at index 1:
+Deleted block contents at index 1:
+Real time: 0.000000 s, User time: 0.000000 s, System time: 0.000000 s
+
+> Deleting block contents at index 0:
+Deleted block contents at index 0:
+Real time: 0.000001 s, User time: 0.000001 s, System time: 0.000000 s
+
+> Deleting array
+Deleted arrray
+Real time: 0.000000 s, User time: 0.000000 s, System time: 0.000000 s
+
+> 

@@ -1,0 +1,30 @@
+[INIT] Client id: 1
+sent at: 23:21:33
+
+
+Message: text2all
+[2ALL]
+ Client id: 1
+sent at: 23:21:58
+
+
+Message: text2one
+[2ONE]
+ from sender id: 1,to: 1
+sent at: 23:22:07
+
+
+[STOP]
+ Client id: 1
+sent at: 23:22:09
+
+
+[INIT] Client id: 3
+sent at: 23:23:21
+
+
+[STOP]
+ Client id: 3
+sent at: 23:24:52
+
+

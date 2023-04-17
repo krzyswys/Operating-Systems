@@ -1,0 +1,13 @@
+
+./program 0.000000001 1 
+Time in (s): 0.000294, time in (ms): 0.294000
+Integral value: 3.141593
+
+./program 0.000000001 3
+Time in (s): 0.000377, time in (ms): 0.377000
+Integral value: 1.287002
+
+./program 0.000000001 9 
+Time in (s): 0.000856, time in (ms): 0.856000
+Integral value: 0.281226
+
